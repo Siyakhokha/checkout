@@ -1,0 +1,12 @@
+defaultPortal: Abandoned cart
+portals:
+  - name: Abandoned cart
+    portalId: 6412394
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CMXcsc3rLxIJAA0AAAAAAAwDGOqwhwMg15iPDCju6QwyFDz2zPvw_nCcsgjYKiU5VvqG0H79OigAAARBAAAAeAAAAAAAAAAAAAAAAAAAAAQAAMAHAAAAADwAAAYAAABgQhQMG-ziBRcZykV4KObvekH1RYTsjkoDbmExUgBaAA
+        expiresAt: '2022-02-02T09:03:12.458Z'
+    personalAccessKey: >-
+      CiQyMWMyMTE5Yy1mNTk5LTQ2MWMtYjcyOC0zNmE2ZGE0ZmVmNjAQ6rCHAxjXmI8MKhkABeaRgmJRDX3U_UjwtdRz8_63CBIAvABnSgNuYTE
